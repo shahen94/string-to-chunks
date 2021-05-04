@@ -10,6 +10,10 @@
     "prepublish": "yarn build",
     "build": "del ./build && tsc"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shahen94/string-to-chunks"
+  },
   "files": ["build"],
   "devDependencies": {
     "@types/jest": "^26.0.23",
