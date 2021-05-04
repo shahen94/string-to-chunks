@@ -1,5 +1,7 @@
 # Convert String to chunks of different sizes
 
+[![Build and test](https://github.com/shahen94/string-to-chunks/actions/workflows/build.yml/badge.svg)](https://github.com/shahen94/string-to-chunks/actions/workflows/build.yml)
+
 
 ### Getting started
 
